@@ -1,6 +1,6 @@
 # ejercicioTema8
 
-Ejercicio bascio realizado en java (bootcamp) 
+Ejercicio básico realizado en java (bootcamp) 
 
 
 ```
